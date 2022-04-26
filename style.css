@@ -1,6 +1,6 @@
 body{
     
-    background-color: powderblue;
+    background-image: url(./Assets/Moonlight.png);
     margin: 0;
     height: 100vh;
 }
@@ -15,7 +15,15 @@ body{
   }
 
   .Inner-Column{
-      height: 23vh;
+      height: 20vh;
       text-align: center;
+      padding: 0%;
   }
 
+.headshot{
+    height: 18vh;
+}
+
+
+
+  
