@@ -1,8 +1,11 @@
 body{
     
-    background-image: url(./Assets/Moonlight.png);
+    background: url(./Assets/Moonlight.png) no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
     height: 100vh;
+    color: rgb(57, 143, 46);
 }
 
 #page-content {
@@ -24,6 +27,8 @@ body{
     height: 18vh;
 }
 
+.NavElement{
+    color: rgb(57, 143, 46) !important;
+}
 
 
-  
